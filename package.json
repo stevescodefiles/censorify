@@ -1,9 +1,14 @@
 {
 	"author" : "Steve Guinn",
-	"name" : "censorify",
-	"version" : "0.1.1",
+	"name" : "censorify-sg60",
+	"version" : "0.1.2",
 	"description" : "Censors words from text",
 	"main" : "censortext",
+	"repository" : {
+		"type": "git",
+		"url": "https://github.com/stevescodefiles/censorify.git"
+	},
+	"keywords" : ["censor", "words"],
 	"dependencies" : {},
 	"engines" : {
 		"node" : "*"
