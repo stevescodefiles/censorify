@@ -1,0 +1,11 @@
+{
+	"author" : "Steve Guinn",
+	"name" : "censorify",
+	"version" : "0.1.1",
+	"description" : "Censors words from text",
+	"main" : "censortext",
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
